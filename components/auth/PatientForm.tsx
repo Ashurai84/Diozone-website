@@ -19,8 +19,7 @@ const PatientForm: React.FC<PatientFormProps> = ({ onSubmit }) => {
   });
 
   const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // In a real application, you would save the form data here
+    e.preventDefault(); 
     onSubmit();
   };
 

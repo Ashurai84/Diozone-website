@@ -19,12 +19,12 @@ const testimonials = [
   {
     name: "Sarah Johnson",
     text: "DiaZone's products have made managing my diabetes so much easier while still enjoying my favorite treats!",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+    image: ""
   },
   {
     name: "Michael Chen",
     text: "The natural sweeteners are amazing. Finally, I can bake without worry!",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+    image: ""
   }
 ];
 

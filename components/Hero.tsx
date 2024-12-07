@@ -15,7 +15,7 @@ const Hero = () => {
       
       <div className="relative h-full flex items-center justify-center">
         <div className="text-center text-white px-4">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">
+          <h1 className="text-5xl md:text-6xl font-bold mb-6 text-[#000]">
             Healthy Living Made Sweet
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
